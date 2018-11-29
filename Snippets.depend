@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1543534120 source:c:\users\msftserver\documents\c++_projects\snippets\main.cpp
+	<sstream>
+	<cstring>
+	<map>
+	<windows.h>
+	<iostream>
+	<regex>
+	"setTextColor.h"
+	"MSFT.h"
+	"snippetsMenu.h"
+
+1543533623 c:\users\msftserver\documents\c++_projects\snippets\settextcolor.h
+
+1543530127 c:\users\msftserver\documents\c++_projects\snippets\democolors.h
+
+1543522264 c:\users\msftserver\documents\c++_projects\snippets\main.cpp
+	<sstream>
+	<cstring>
+	<map>
+	<windows.h>
+	<iostream>
+	<regex>
+	"setTextColor.h"
+	"DemoColors.h"
+
+1543529499 source:c:\users\msftserver\documents\c++_projects\snippets\src\textcolor.cpp
+
+1543529927 c:\users\msftserver\documents\c++_projects\snippets\include\textcolor.h
+
+1543534023 c:\users\msftserver\documents\c++_projects\snippets\snippetsmenu.h
+
+1543534266 c:\users\msftserver\documents\c++_projects\snippets\msft.h
+
